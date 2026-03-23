@@ -1,2 +1,14 @@
 # Digital-Literacy-Project
-This repository contains my Digital Literacy Project for the CSE0001 course. It focuses on essential digital skills development including online portfolio creation, infographic design, coding practice, professional email writing, and cybercrime awareness. The project is organised into five tasks with a detailed report.
+
+**NAME:** Porandla Sri Charani
+
+**REGISTRATION NUMBER:** 25BEC10101
+
+**BRANCH:** ECE Core
+
+**COURSE:** Digital Literacy (CSE0001)
+
+# PROJECT REVIEW:
+The project involves developing essential digital skills in creating a professional online presence, practicing safe usage of the internet, developing knowledge in cybercrime awareness, and utilizing modern digital technology. 
+
+It comprises five tasks in infographic design, developing a portfolio, exploring platforms, email etiquette, and cyber safety, along with a project report.
