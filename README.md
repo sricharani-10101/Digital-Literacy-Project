@@ -1,4 +1,4 @@
-# Digital Literacy Project
+# DIGITAL LITERACY PROJECT
 
 ## **NAME:** Porandla Sri Charani
 
