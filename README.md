@@ -24,7 +24,8 @@ Created an infographic for digital literacy awareness, focusing on aspects such 
 
 ## Task 2: Digital Portfolio
 Built a professional online presence using platforms like GitHub, LinkedIn, and Kaggle to showcase skills and academic profile.  
-{🔗}
+
+( https://github.com/sricharani-10101/Digital-Literacy-Project/tree/15e7ddce80624fddb0fb97a92f707f190e37d564/task-2-portfolio )
 
 ## Task 3: Coding & Platforms
 Practiced coding on HackerRank and created a Google Form quiz for digital literacy awareness, and spread awareness among peers.  
