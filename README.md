@@ -28,9 +28,11 @@ Built a professional online presence using platforms like GitHub, LinkedIn, and 
 ( https://github.com/sricharani-10101/Digital-Literacy-Project/tree/15e7ddce80624fddb0fb97a92f707f190e37d564/task-2-portfolio )
 
 ## Task 3: Coding & Platforms
-Practiced coding on HackerRank and created a Google Form quiz for digital literacy awareness, and spread awareness among peers.  
-[Google Form] {}
-🔗
+Practiced coding on HackerRank and created a Google Form quiz for digital literacy awareness, and spread awareness among peers. 
+
+**Google Form:** { https://docs.google.com/forms/d/e/1FAIpQLSd6MyeRVUCXm5QL4UBUsAV1-JMSniRrXwehifZCOWdzCmEwUA/viewform?usp=header }
+
+( https://github.com/sricharani-10101/Digital-Literacy-Project/tree/69d8709f97013bef7e098b402c1ce68ef6ae7bed/task-3-platforms )
 
 ## Task 4: Email Etiquette
 Drafted professional emails and created a social media checklist to demonstrate proper online communication practices.  
