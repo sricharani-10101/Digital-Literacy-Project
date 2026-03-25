@@ -19,7 +19,7 @@ It comprises five tasks in infographic design, developing a portfolio, exploring
 
 ## Task 1: Infographic
 Created an infographic for digital literacy awareness, focusing on aspects such as internet safety, useful digital tools, and email etiquette.
-( https://github.com/sricharani-10101/Digital-Literacy-Project/tree/task-1-presentation )
+( https://github.com/sricharani-10101/Digital-Literacy-Project/tree/185618e3b64e2953cfeed3d250a638acb941d25b/task-1-presentation )
 
 ## Task 2: Digital Portfolio
 Built a professional online presence using platforms like GitHub, LinkedIn, and Kaggle to showcase skills and academic profile.  
