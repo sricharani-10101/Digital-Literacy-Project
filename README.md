@@ -36,7 +36,7 @@ Practiced coding on HackerRank and created a Google Form quiz for digital litera
 
 ## Task 4: Email Etiquette
 Drafted professional emails and created a social media checklist to demonstrate proper online communication practices.  
-( https://github.com/sricharani-10101/Digital-Literacy-Project/tree/5373d70cb29755275e85da0759b80a9118e72a71/task-4-email-etiquette )
+(https://github.com/sricharani-10101/Digital-Literacy-Project/tree/5373d70cb29755275e85da0759b80a9118e72a71/task-4-email-etiquette)
 
 ## Task 5: Cybercrime Awareness
 Analyzed a phishing case study and created a prevention checklist to spread awareness about online safety and cyber threats.  
