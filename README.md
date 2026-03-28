@@ -12,6 +12,9 @@ Hi, I am Charani.
 I am interested in Electronics and Communications.
 I am an ECE student with an interest in embedded systems, communication technologies, and practical problem-solving. I enjoy applying Python and programming concepts to build simple, real-world solutions. I aim to strengthen my technical skills and work on projects that integrate electronics with software.
 
+Connect with me:
+-LinkedIn: www.linkedin.com/in/sri-charani-porandla-60175937a/
+
 # PROJECT REVIEW:
 The project involves developing essential digital skills in creating a professional online presence, practicing safe usage of the internet, developing knowledge in cybercrime awareness, and utilizing modern digital technology. 
 
